@@ -1,1 +1,2 @@
 ini latihan git pertama 
+merge conflictnya terima yang saya aja jangan yang mereka :v
