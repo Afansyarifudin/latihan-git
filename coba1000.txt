@@ -1,0 +1,2 @@
+HELLO WORLD
+from coba1000.txt
